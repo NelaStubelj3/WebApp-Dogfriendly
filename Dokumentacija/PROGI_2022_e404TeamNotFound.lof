@@ -1,0 +1,33 @@
+\babel@toc {croatian}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Prikaz mogućnosti koje nudi aplikacija DogPack\relax }}{9}{figure.caption.2}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Prikaz karte\relax }}{9}{figure.caption.3}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Funkcionalnost korisnika i vlasnika obrta\relax }}{18}{figure.caption.4}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Funkcionalnost registriranog korisnika i vlasnika obrta\relax }}{18}{figure.caption.5}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Sekvencijski dijagram registracije korisnika ili vlasnika obrta\relax }}{19}{figure.caption.6}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Sekvencijski dijagram potvrđivanja ili negiranja postojećih lokacija\relax }}{20}{figure.caption.7}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Sekvencijski dijagram označavanja novih lokacija\relax }}{21}{figure.caption.8}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Sekvencijski dijagram pisanja recenzija i ocjenjivanja lokacija\relax }}{22}{figure.caption.9}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Prikaz troslojne strukture Spring Boot radnog okvira\relax }}{25}{figure.caption.10}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces ER dijagram baze podataka\relax }}{29}{figure.caption.11}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Relacijski dijagram baze podataka\relax }}{30}{figure.caption.12}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Controller class\relax }}{31}{figure.caption.13}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Model class\relax }}{32}{figure.caption.14}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Repository class\relax }}{33}{figure.caption.15}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Request class\relax }}{34}{figure.caption.16}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Response class\relax }}{34}{figure.caption.17}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Security class\relax }}{35}{figure.caption.18}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Service class\relax }}{35}{figure.caption.19}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Konceptualni dijagram razreda\relax }}{36}{figure.caption.20}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Dijagram stanja\relax }}{37}{figure.caption.21}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Dijagram aktivnosti\relax }}{39}{figure.caption.22}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Dijagram komponenti\relax }}{40}{figure.caption.23}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Rezultati testova ispitivanja komponenti\relax }}{46}{figure.caption.24}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Rezultati testova ispitivanja sustava\relax }}{49}{figure.caption.25}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Dijagram razmještaja\relax }}{50}{figure.caption.26}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Spajanje na sustav za upravljanje bazom podataka\relax }}{51}{figure.caption.27}%
+\addvspace {10\p@ }

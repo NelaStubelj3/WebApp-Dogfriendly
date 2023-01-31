@@ -1,0 +1,6 @@
+IzvorniKod/backend/target
+IzvorniKod/frontend/build
+IzvorniKod/frontend/node_modules
+.vscode
+IzvorniKod/backend/src/main/resourcesapplication.properties
+IzvorniKod/.idea/
